@@ -1,0 +1,97 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Framework
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.log
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj.user
+*.dotsettings.user
+*.builds
+*.pidb
+*.userprefs
+_TemporaryKey.pfx
+*.publishsettings
+*.config
+
+# Visual Studio Code
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+Generated/
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+packages/
+packages/*
+
+# MSBuild binary log
+*.binlog
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Local history for Visual Studio
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# ASP.NET Core
+wwwroot/
+
+.DS_Store
